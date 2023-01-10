@@ -1,0 +1,20 @@
+Advance Excel Assignment 3 
+1.	How and when to use the AutoSum command in excel? 
+Ans; If you need to sum a column or row of numbers, let Excel do the math for you. Select a cell next to the numbers you want to sum, click AutoSum on the Home tab, press Enter, and you're done. When you click AutoSum, Excel automatically enters a formula (that uses the SUM function) to sum the numbers.
+2.	What is the shortcut key to perform AutoSum?
+Ans:  Alt+=
+3.	How do you get rid of Formula that omits adjacent cells?
+Ans: Launch your Excel sheet and then click on File.
+Navigate to Options and then select Formulas.
+Look for Error checking rules and uncheck Formulas which omit cells in a region.
+Click OK.
+4.	How do you select non-adjacent cells in Excel 2016? 
+Ans:  Select the data range.
+Press down on the Control and F keys simultaneously. ...
+A dialogue box will open with two options, Find and Find What. ...
+Click the Find All tab. ...
+Press the Control and A keys.
+5.	What happens if you choose a column, hold down the Alt key and press the letters ocw in quick succession? 
+Ans: A dialogue box of column width will open.
+6.	If you right-click on a row reference number and click on Insert, where will the row be added?
+Ans: A row will be added on left side of that particular row.
